@@ -15,7 +15,7 @@
 }
 
 .header {
-    background-image: url(http://www.csszengarden.com/214/huntington.jpg);
+    background-image: url("huntington.jpg");
     padding-bottom: 80px;
 }
 
@@ -51,7 +51,7 @@ p {
 .view-design {
     text-align: center;
     padding-top: 120px;
-    background-image: url(http://www.csszengarden.com/214/huntington.jpg);
+    background-image: url("huntington.jpg");
     font-family: 'Julius Sans One';
     font-style: normal;
     font-weight: 400;
@@ -171,7 +171,7 @@ a {
 }
 
 .footer-1 {
-    background-image: url(http://www.csszengarden.com/214/huntington.jpg);
+    background-image: url("huntington.jpg");
     color: white;
     padding-bottom: 90px;
 }
